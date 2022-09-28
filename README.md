@@ -1,3 +1,3 @@
 # Testing II | Avalicação final
 
-Feito pro Jennifer Mayumi e Vinicus Mendes
+Feito pro [Jennifer Mayumi](https://github.com/jeennimay/) e [Vinicius Mendes](https://github.com/VinnyMendes)
